@@ -1,13 +1,3 @@
-"""
-QA-4: Neural Network Forward Pass (Computation Flow Only)
-- Input layer -> Hidden layer (ReLU) -> Output layer (Sigmoid)
-- Hardcoded weights/biases
-- Prints step-by-step calculations + saves output images to ./outputs
-
-Run:
-  python main.py
-"""
-
 from __future__ import annotations
 import numpy as np
 import matplotlib.pyplot as plt
